@@ -34,7 +34,7 @@ The project focuses on:
 ---
 
 Detailed architecture:
-- [High-Level Solution Architecture](docs/architecture/rideflow-architecture
+- [High-Level Solution Architecture →](docs/architecture/rideflow-architecture.md)
 
 **Key characteristics:**
 
