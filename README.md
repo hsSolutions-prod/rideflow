@@ -91,8 +91,12 @@ This approach avoids distributed transactions and enables eventual consistency a
 - PostgreSQL (persistent storage)
 
 **Maps & Location**
-- Open-source routing engine (OSRM / GraphHopper)
-- Mapbox (map tiles & visualization)
+- Open-source routing engine: OSRM  
+  [Geo Rush ->](https://github.com/hsSolutions-prod/GeoRush--Case-Study-.git)
+- Alternative routing engine: [Valhalla ->](https://github.com/valhalla/valhalla.git) 
+- Map visualization and tiles: Mapbox  
+ 
+
 
 **Infrastructure & Ops**
 - Docker
@@ -117,7 +121,7 @@ These areas introduce domain complexity unrelated to the core architectural goal
 ## Trade-Offs & Rationale
 
 Detailed design trade-offs are documented here:
-- [`docs/tradeoffs.md`](docs/tradeoffs.md)
+- [tradeoffs ->](docs/tradeoffs.md)
 
 Topics include:
 - Why distributed transactions were avoided
