@@ -47,9 +47,10 @@ The project focuses on:
 
 ---
 
-## Ride Request & Driver Matching Flow
+### Ride Request & Driver Matching Flow
 
-![RideFlow Sequence Flow](docs/architecture/rideflow-sequence.md)
+[View detailed sequence diagram →](docs/architecture/rideflow-sequence.md)
+
 
 This sequence illustrates how RideFlow handles real-time matching:
 
