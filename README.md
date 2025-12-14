@@ -142,7 +142,7 @@ Potential extensions explored conceptually (not implemented):
 - Failure recovery and replay strategies
 
 See:
-- [`future-scope`](docs/architecturefuture-scope.md)
+- [`future-scope`](docs/architecture/future-scope.md)
 
 ---
 
